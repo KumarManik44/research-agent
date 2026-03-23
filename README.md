@@ -4,7 +4,7 @@ An autonomous AI research agent that takes a topic, searches the web, and produc
 
 Built with **Gemini 2.5 Flash** + **Tavily Search** + **FastAPI** + **React**.
 
-![Research Agent Demo](docs/demo.png)
+![Research Agent Demo]
 
 ---
 
